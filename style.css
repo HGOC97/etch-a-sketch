@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    /* font-family: 'Goldman', cursive; */
+}
+
+#container {
+    height: 512px;
+    width: 512px;
+    border: 4px solid black;
+}
